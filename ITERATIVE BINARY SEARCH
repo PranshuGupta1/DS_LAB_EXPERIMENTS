@@ -24,6 +24,8 @@ int binarySearch(int arr[], int l, int r, int x)
 	return -1;
 }
 
+
+
 // Driver code
 int main(void)
 {
@@ -38,3 +40,9 @@ int main(void)
 							result);
 	return 0;
 }
+
+
+
+//OUTPUT
+
+Element is present at index 3
